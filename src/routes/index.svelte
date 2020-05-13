@@ -44,7 +44,7 @@
 <figure>
 	<img alt='Success Kid' src='successkid.jpg'>
 	<figcaption>Have fun with Sapper and Svelte Material UI!</figcaption>
-	<Button variant="raised">SMUI</Button>
 </figure>
 
+<Button variant="raised">SMUI</Button>
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
