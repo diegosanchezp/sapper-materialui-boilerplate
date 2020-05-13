@@ -1,3 +1,6 @@
+<script>
+	import Button from '@smui/button';
+</script>
 <style>
 	h1, figure, p {
 		text-align: center;
@@ -40,7 +43,8 @@
 
 <figure>
 	<img alt='Success Kid' src='successkid.jpg'>
-	<figcaption>Have fun with Sapper!</figcaption>
+	<figcaption>Have fun with Sapper and Svelte Material UI!</figcaption>
+	<Button variant="raised">SMUI</Button>
 </figure>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
